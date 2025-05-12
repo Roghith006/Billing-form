@@ -1,0 +1,28 @@
+
+
+.class{
+    border-radius: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+td:hover { 
+    color:forestgreen;
+
+    
+}
+
+
+#redeemcode {
+    display: inline-block; 
+    width: 100%;
+    padding-top: 15px;
+    border-radius: 5px;
+  }
